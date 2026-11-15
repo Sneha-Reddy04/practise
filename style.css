@@ -1,0 +1,29 @@
+
+body {
+    font-family: Arial;
+    margin: 0;
+    text-align: center;
+    background-color: lightgray;
+}
+
+header {
+    background-color: navy;
+    color: white;
+    padding: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+}
+
+h2 {
+    color: navy;
+    margin-top: 30px;
+}
+
+p {
+    font-size: 18px;
+}
+
